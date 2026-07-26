@@ -42,15 +42,6 @@
 
 ---
 
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Amna06Khan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amna06Khan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-</p>
 
 ---
 
@@ -64,13 +55,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amna06Khan&l
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amna06Khan&theme=algolia&no-frame=true"/>
-
-</p>
 
 ---
 
